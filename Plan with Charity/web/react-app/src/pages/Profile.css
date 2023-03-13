@@ -1,0 +1,15 @@
+.Profile {
+    width: 50vw;
+    height: 100vh;
+    /* background: url(./bg.jpeg); */
+    background-size: 75% 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: #b9efff;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
